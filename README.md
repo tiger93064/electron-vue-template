@@ -75,6 +75,12 @@ const path = Path.join(app.getAppPath(), 'static', 'yourFile.txt');
 const contents = FileSystem.readFileSync(path);
 ```
 
+## Build Environment
+`OS:   macOS 15.2`
+`Node: 14.20.0`
+
+## Build Setup
+sudo n 14.20.0
 
 ## Credit
 
